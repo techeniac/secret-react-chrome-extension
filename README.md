@@ -18,5 +18,7 @@ npm run build
 ```
 
 Step 2: Goto chrome settings > More tools > Extensions
+
 Step 3: Turn on Developer mode (See top right corner) 
+
 Step 4: Click on Load Unpacked button on the left side and upload the Build folder. 
